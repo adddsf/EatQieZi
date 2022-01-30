@@ -3,16 +3,16 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatEggplant
 
-_🦌 网页小游戏 🥛_
+ 🍆网页小游戏🍆
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉小茄子
 
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
