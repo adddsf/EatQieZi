@@ -14,9 +14,9 @@
 
 小游戏：刀掉小茄子
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
+[线上版本](https://adddsf.github.io/Eateggplant/)
 |
-[Github Page](https://arcxingye.github.io/EatKano/index.html)
+[Github Page](https://adddsf.github.io/Eateggplant/)
 
 ## 可选功能
 
