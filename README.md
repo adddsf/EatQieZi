@@ -15,7 +15,7 @@
 小游戏：刀掉小茄子
 
 [线上版本](https://adddsf.github.io/Eateggplant/)
-|
+ 
 [Github Page](https://adddsf.github.io/Eateggplant/)
 
 ## 可选功能
