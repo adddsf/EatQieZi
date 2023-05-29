@@ -18,6 +18,6 @@
  
 [Github Page](https://adddsf.github.io/Eateggplant/)
 
-## Wiki
+## [Wiki](https://github.com/adddsf/EatQieZi/wiki)
 
 wiki已创建——13.9.2022
