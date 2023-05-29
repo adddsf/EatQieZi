@@ -12,7 +12,7 @@
 
 ## 简介
 
-小游戏：刀掉小茄子
+小游戏：刀掉你看见的茄子
 
 [线上版本](https://adddsf.github.io/Eateggplant/)
  
