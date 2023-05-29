@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatEggplant
+# EatQieZi
 
  🍆网页小游戏🍆
 
